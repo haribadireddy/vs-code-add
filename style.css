@@ -1,0 +1,18 @@
+.bg-container{
+    background-color: blanchedalmond;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 20px;
+}
+body{
+    margin: 0px;
+}
+.heading{
+    color:black;
+    font-family: "roboto";
+    font-size: 35px;
+    text-align: center;
+}
+.container-1{
+    display: flex;
+}
